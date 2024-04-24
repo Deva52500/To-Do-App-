@@ -1,4 +1,4 @@
-The To-Do application is based on JavaScript, where you can create your to-do list based on your requirements.
+The To-Do application is based on plain JavaScript, where you can create your to-do list as per your requirements.
 
 
 # Frontend UI
